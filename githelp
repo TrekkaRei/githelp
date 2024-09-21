@@ -1,0 +1,12 @@
+
+echo "# repo-name" >> README.md
+git init
+git add .
+git commit -m "initial"
+git branch -M main
+git remote add origin https://github.com/TrekkaRei/REPONAME.git
+git push -u origin main
+
+Username: TrekkaRei
+Token: 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
+
